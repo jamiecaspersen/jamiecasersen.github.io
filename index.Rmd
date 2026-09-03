@@ -1,0 +1,12 @@
+---
+title: "Jamie Smith"
+links:
+  - label: BlueSky
+    url: "https://bsky.app/profile/jamiesmith.bsky.social"
+  - label: GitHub
+    url: "https://github.com/jamiecaspersen"
+
+output:
+  postcards::jolla_blue
+---
+ 
