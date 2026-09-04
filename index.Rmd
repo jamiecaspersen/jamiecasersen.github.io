@@ -1,12 +1,22 @@
 ---
 title: "Jamie Smith"
+image: "Picture1.jpg"
 links:
-  - label: BlueSky
-    url: "https://bsky.app/profile/jamiesmith.bsky.social"
-  - label: GitHub
+  - label: '`r fontawesome::fa("bluesky")` BlueSky' 
+    url: "https://bsky.app/profile/jamiesmith.bsky.social/"
+  - label: '`r fontawesome::fa("github")` Github'
     url: "https://github.com/jamiecaspersen"
 
 output:
-  postcards::jolla_blue
+  postcards::jolla
 ---
- 
+Microbiology PhD student
+
+Interested in bacterial pathogenesis & antibiotic recalcitrance
+
+`r fontawesome::fa("microscope", height = "1em",stroke_width = "0.2px", fill="#9a81b0")`
+`r fontawesome::fa("capsules", height = "1em", stroke_width = "0.2px", fill="#abcdde")`
+`r fontawesome::fa("vial", height = "1em", stroke_width = "0.2px", fill="#bcc07b")`
+`r fontawesome::fa("dna", height = "1em", stroke_width = "0.2px", fill="#ffcc80")`
+`r fontawesome::fa("person", height = "1em", stroke_width = "0.2px", fill="#ffaf6e")`
+`r fontawesome::fa("disease", height = "1em", stroke_width = "0.2px", fill="#ea7d70")`
